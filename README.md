@@ -11,4 +11,5 @@ _A filter (NormalizationFilter) was created to wrap all the incoming requests to
 ## GitHub ticket:
 
 https://github.com/dotCMS/core/issues/17796
+
 https://github.com/dotCMS/core/issues/18354
