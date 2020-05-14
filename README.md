@@ -2,7 +2,7 @@
 
 _A filter (NormalizationFilter) was created to wrap all the incoming requests to override the HttpServletRequest.getRequestURI() method in order to normalize all the requested URIs._
 
-# Important for clients using dotCMS 5.2.4 or below: 
+# Important for clients using dotCMS 5.2.3 or below: 
 
 **This plugin overrides web.xml file, if you already are overriding this file, please contact dotCMS Helpdesk for further instructions.**
 
